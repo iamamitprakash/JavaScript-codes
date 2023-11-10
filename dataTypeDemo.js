@@ -17,9 +17,9 @@ console.log("Details of the user is:", user);
 
 var user1 ={
     name: "Sakshi",
-    age: 23,
+    age: 22,
     course: "Fullstack Developer",
-    company: "Not Known",
+    company: "Google",
     isAStudent: true
 };
 console.log("another details of the user is:", user1);
