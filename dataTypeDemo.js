@@ -12,7 +12,7 @@ console.log("Salary =", salary);
 console.log("Is a student?", isStudent);
 
 //object declaration
-var user = {name: "Amit", age: 39, course:"Fullstack Developer", company: "Sony", isAStudent: true};
+var user = {name: "Amit", age: 39, course:"Fullstack Developer", company: "Microsoft", isAStudent: true};
 console.log("Details of the user is:", user);
 
 var user1 ={
