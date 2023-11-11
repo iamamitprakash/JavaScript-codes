@@ -10,3 +10,14 @@ function largestAmongThree(a, b, c){
     }
 }
 console.log(largestAmongThree(34, 23, 54), "is the smallest among the three.");
+
+//without use a function
+
+let a = 45, b = 34, c = 94;
+if(a < b && a < c){
+    console.log("Minimum of all:", a);
+}else if(b < a && b < c){
+    console.log("Minimum of all:", b);
+}else{
+    console.log("Minimum of all:", c);
+}
