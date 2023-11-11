@@ -9,4 +9,4 @@ function largestAmongThree(a, b, c){
         return c;
     }
 }
-console.log(largestAmongThree(34, 23, 54), "is the greatest among the three.");
+console.log(largestAmongThree(34, 231, 54), "is the greatest among the three.");
